@@ -5,7 +5,7 @@ function App() {
     <div className="flex justify-center items-center w-screen h-screen bg-lightgray">
       <div className="w-[300px] h-[470px] rounded-[20px] text-center bg-white drop-shadow-xl p-4">
         <div>
-          <img src="../src/assets/images/image-qr-code.png" alt="qr-code" className="rounded-lg" />
+          <img src="/static/images/image-qr-code.png" alt="qr-code" className="rounded-lg" />
         </div>
         <div className="mt-5">
           <h1 className="text-darkblue font-bold text-[19px] pl-2 pr-2">Improve your front-end skills by building projects</h1>
