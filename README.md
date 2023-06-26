@@ -13,8 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-
-![](./screenshot.png)
+![screenshot](https://raw.githubusercontent.com/aomsk/qr-code-component/main/src/assets/screenshot/screenshot.png)
 
 <!-- ### Links
 
@@ -24,7 +23,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## My process
 
 ### Built with
-
 - [Vite](https://vitejs.dev/) - Frontend Tooling
 - [React](https://reactjs.org/) - JS library
 - [Tailwind CSS](https://tailwindcss.com/) - For styles
